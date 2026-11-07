@@ -1,7 +1,16 @@
-# khaled7
-this is my fuckin [code] (https://gist.github.com/khaledah4567med123-design/7d36dd750f6993f0f1986603dcdf8e16)
-[notebook]https://colab.research.google.com/drive/1HJS3wckETYWrc8Y5u1hiu_BsZgNpd_5i?usp=sharing
-<img width="857" height="372" alt="image" src="https://github.com/user-attachments/assets/fadaeaf8-ed79-4df8-af02-e9598dc38cfa" />
-![apple_image](https://www.bing.com/th/id/OIP.kori7Y8NQzmHi4RLlD-T9AHaE5?w=193&h=135&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=ImgAns&rm=2)
-<img width="240" height="251" alt="image" src="https://github.com/user-attachments/assets/2310f30b-a55f-40d9-87b0-f5514f4fb393" />
+Infectious and parasitic diseases BtBio 413
+“None of us truly live alone”
+Alan Gunn and Sarah J. Pitt.
+Animal associations
+• All animals are in constant interaction with other organisms • Intra-specific interactions and inter-specific interactions close association of two symbiosis different organisms
+close association of two different organisms beneficial to both organisms beneficial for one of the organisms, but the other is neither benefited nor harmed one organism (the parasite) living at the expense of the other (the host)
+mutualism
+commensalism
+parasitism
+pathogen
+parasites that injure their host
+PARASITOLOGY - science that deals with organisms that seek shelter and nourishment on or within other living organisms.
+➢ Medical Protozoology - Deals with the study of medically important protozoa. ➢ Medical Helminthology - Deals with the study of helminthes (worms) that affect man. ➢ Medical Entomology  - Science that deals with arthropods cause or transmit disease to man
+Pathogenic parasites simple unicellular complex multicellular Protozoa Metazoa lat helminthcs Nematehelminthes - Trematodes mvemmiadea - Cestodes Rhizopodai Mastigophastigophora ana Ciliates Amoeba Flagellates
+
 
